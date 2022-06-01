@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  padding: 16px;
+  box-sizing: border-box;
+}
